@@ -1,4 +1,7 @@
 fun  main(args: Array<String>) {
     println("Hello world")
-    print(10.0 / 9)
+    val first= 5
+    val second=10
+    val multiple= first+second
+    println("your answer is $multiple")
 }
